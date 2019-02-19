@@ -2,10 +2,10 @@
 
 This script inverts the colors of any regular old pdf. 
 
-From this:
-![light mode](https://github.com/CBR0MS/cool-random-scripts/blob/master/pdfDarkMode/docs/light.png)
-to this:
-![dark mode](https://github.com/CBR0MS/cool-random-scripts/blob/master/pdfDarkMode/docs/dark.png)
+Like this:
+
+<img src="https://github.com/CBR0MS/cool-random-scripts/blob/master/pdfDarkMode/docs/light.png" width="300">
+<img src="https://github.com/CBR0MS/cool-random-scripts/blob/master/pdfDarkMode/docs/dark.png" width="300">
 
 
 ### Things to install
